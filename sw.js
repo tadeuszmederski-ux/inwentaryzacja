@@ -1,7 +1,7 @@
 /* Service worker aplikacji „Inwentaryzacja energetyczna” – tylko pliki aplikacji z tej samej witryny (cache-first).
    Nie obsługuje żądań do innych domen ani spoza zakresu aplikacji; dane użytkownika (baza danych przeglądarki) nie trafiają do cache. */
 'use strict';
-const WERSJA = '1.1-b984eb81f2';
+const WERSJA = '1.2-86d5cde017';
 const CACHE = 'inwentaryzacja-' + WERSJA;
 const PLIKI = ["./", "./index.html", "./manifest.webmanifest", "./ikona-192.png", "./ikona-512.png", "./ikona-maskable-512.png"];
 const ZAKRES = new URL('./', self.location).pathname;
