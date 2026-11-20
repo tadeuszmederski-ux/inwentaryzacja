@@ -25,4 +25,4 @@ początkowego”.
 
 Zob. [LICENCJA.txt](LICENCJA.txt).
 
-Wersja 1.2 (2026-11-12). Format pakietu eksportu: „inwentaryzacja-energetyczna”, wersja formatu 2.
+Wersja 2.0 (2026-11-20). Format pakietu eksportu: „inwentaryzacja-energetyczna”, wersja formatu 2.
